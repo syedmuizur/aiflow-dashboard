@@ -12,7 +12,7 @@ Built with Next.js, React, Tailwind CSS, FastAPI, and Recharts.
 
 ## 📸 Dashboard Preview
 
-![AiFlow Dashboard](./screenshots/dashboard.png)
+![AiFlow Dashboard](./screenshots/dashboard.jpeg)
 
 > **Note:** Save your main dashboard screenshot as **`dashboard.png`** inside the `screenshots` folder.
 
@@ -22,7 +22,7 @@ Built with Next.js, React, Tailwind CSS, FastAPI, and Recharts.
 
 ### Dashboard Overview
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.jpeg)
 
 > Main analytics dashboard displaying AI requests, latency, workflow metrics, and model usage.
 
