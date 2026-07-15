@@ -39,7 +39,7 @@ const [isLoading, setIsLoading] = useState(true);
 
 // Fetch real data from FastAPI backend
 useEffect(() => {
-fetch("http://localhost:8000/api/stats")
+fetch("[https://ai-automation-platform-six.vercel.app/api/stats](https://ai-automation-platform-six.vercel.app/api/stats)")
 .then((res) => res.json())
 .then((data) => {
 setPerformanceData(data.performanceData);
