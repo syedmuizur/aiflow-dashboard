@@ -38,7 +38,7 @@ Built with Next.js, React, Tailwind CSS, FastAPI, and Recharts.
 
 ### Backend Integration
 
-![Backend](./screenshots/backend-integration.png)
+![Backend](./screenshots/backend-integrations.png)
 
 > FastAPI backend powering workflow execution, analytics, and API communication.
 
